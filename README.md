@@ -1,4 +1,4 @@
-‎# ıkukıro geruqo
+# ıkukıro geruqo
 
 ## Alphabet
 
@@ -106,8 +106,10 @@ Example of sentences:
 ```
 geru -le -wa -nı  -qı-go
 speak-HRS-PST-PERF-2 -LOC
+
 ıku-kı-qo
 man-PL-ERG
+
 qı-wo
 2 -ABS
 ```
@@ -119,6 +121,7 @@ I’ve been told that thou mentioned the men in thy speech
 ```
 geru -q    -kı-ne -wa -nı
 speak-INTER-PL-DRC-PST-PERF
+
 ıku-kı-qo
 man-PL-ERG
 ```
