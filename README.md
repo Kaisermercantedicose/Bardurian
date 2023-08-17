@@ -52,7 +52,9 @@ Pronouns are added as suffixes to indicate possession and agents (e.g.: ıkukı*
 
 **-kı** = plural (e.g.: ıku**kı**, “m**e**n”)/enlargement of event (e.g.: geru**kı**mewanıȷı, “I talked **a lot**”)
 
+
 **-s** = negation (e.g.: geru**s**kımewanıȷıkı, “we did**n’t** talk a lot”)
+
 
 **-q** = question (e.g.: geru**q**newamısı, “**dost** thou know if they talked**?**”)
 
