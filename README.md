@@ -56,7 +56,7 @@ Pronouns are added as suffixes to indicate possession and agents (e.g.: ıkukı*
 **-s** = negation (e.g.: geru**s**kımewanıȷıkı, “we did**n’t** talk a lot”)
 
 
-**-q** = question (e.g.: geru**q**newamısı, “**dost** thou know if they talked**?**”)
+**-q** = question (e.g.: geru**q**newamısı, “**dost** thou know if they talked **?**”)
 
 To refuse to execute an order, you must put the negation on the subject (e.g. geru - ȷı**s**!, “speak”-“**no**!” (literally “I don’t”)). When negating an asked information, the negation goes on the subject as above, or it’s possible also on the ETA (evidentiality-tense-aspect construction)(e.g.: geruqnewamısık - newamısıkı**s** “did they talk (as far as you were assisting)?” - “**no**, they did**n’t**”). This is used for formal answers. 
 It’s the same to negate the evidentiality instead of the question (e.g.: geruqlewamısıkı - **les**, “do you know if they talked?” - “**I don’t know** (no one told me that)”)
