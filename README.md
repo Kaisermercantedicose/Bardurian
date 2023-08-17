@@ -101,7 +101,7 @@ It’s the same to negate the evidentiality instead of the question (e.g.: geruq
 
 **-mo** = sublative (under)
 
-ıkukıro geruqo is an **ergative-absolutive** language (meaning that the subject of an intransitive sentence is treated as an object in a transitive sentence), with the difference that the subject of a passive or non-volitional verb (e.g.: gerunewamı qı**qo**, “I saw you **being forced to** speak”) is marked as the object of a transitive sentence (that is using the ergative case for the object and the absolutive for the subject). The reflexive or  action requires both the cases (e.g.: gerukımenı sı**woqo**, “I guess he will talk a lot **about himself**”).
+ıkukıro geruqo is an **ergative-absolutive** language (meaning that the subject of an intransitive sentence is treated as an object in a transitive sentence), with the difference that the subject of a passive or non-volitional verb (e.g.: gerunewamı qı**qo**, “I saw you **being forced to** speak”) is marked as the object of a transitive sentence (that is using the ergative case for the object and the absolutive for the subject). The reflexive or self-aimed action requires both the cases (e.g.: gerukımenı sı**woqo**, “I guess he will talk a lot **about himself**”).
 
 Example of sentences:
 
