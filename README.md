@@ -7,20 +7,11 @@ a, b, c (tʃ), d, e, f, g, ı (i), ȷ (dʒ), k, l, m, n, ñ (ɲ), o, p, q (ʃ), 
 ¹*The ə (shwa) is put amongst the consonants whenever they aren’t pronounceable with ease, such as **qs** (ʃs) becoming **q’s** (ʃɘs).*
 
 ## Pronouns
-
-**ȷı** = I
-
-**qı** = thou
-
-**sı** = (s)he/it
-
-**ȷıkı** = we (inclusive)
-
-**ȷıcı** = we (exclusive)
-
-**qıkı** = ye
-
-**sıkı** = they
+||Sing.|Plur.
+|-|-|-
+|**1st**|ȷı|ȷıkı *(inclusive)*; ȷıci *(exclusive)*
+|**2nd**|qi|qiki
+|**3rd**|si|siki
 
 ## Suffixes
 
