@@ -1,10 +1,8 @@
-# ıkukıro geruqo
+# ıkqıgeru
 
 ## Alphabet
 
-a, b, c (tʃ), d, e, f, g, ı (i), ȷ (dʒ), k, l, m, n, ñ (ɲ), o, p, q (ʃ), r (r;ʀ), s, t, u, v, w, y (j), ’ (ə)¹
-
-¹*The ə (shwa) is put amongst the consonants whenever they aren’t pronounceable with ease, such as **qs** (ʃs) becoming **q’s** (ʃɘs).*
+a, b, c (tʃ), d, e, f, g, ı (i), ȷ (dʒ), k, l, m, n, ñ (ɲ), o, p, q (ʃ), r (r;ʀ), s, t, u, v, w, y (j).
 
 ## Pronouns
 ||Sing.|Plur.
@@ -92,7 +90,7 @@ It’s the same to negate the evidentiality instead of the question (e.g.: geruq
 
 **-mo** = sublative (under)
 
-ıkukıro geruqo is an **ergative-absolutive** language (meaning that the subject of an intransitive sentence is treated as an object in a transitive sentence), with the difference that the subject of a passive or non-volitional verb (e.g.: gerunewamı qı**qo**, “I saw you **being forced to** speak”) is marked as the object of a transitive sentence (that is using the ergative case for the object and the absolutive for the subject). The reflexive or self-aimed action requires both the cases (e.g.: gerukımenı sı**woqo**, “I guess he will talk a lot **about himself**”).
+ıkqıgeru is an **ergative-absolutive** language (meaning that the subject of an intransitive sentence is treated as an object in a transitive sentence), with the difference that the subject of a passive or non-volitional verb (e.g.: gerunewamı qı**qo**, “I saw you **being forced to** speak”) is marked as the object of a transitive sentence (that is using the ergative case for the subject and the absolutive for the object). The reflexive or self-aimed action requires both the cases (e.g.: gerukımenı sı**woqo**, “I guess he will talk a lot **about himself**”).
 
 Example of sentences:
 
@@ -109,7 +107,7 @@ qı-wo
 2 -ABS
 ```
 
-I’ve been told that thou mentioned the men in thy speech
+I’ve been told that thou mentioned the men in thy speech.
 
 **geruqkınewanı ıkukıqo**
 
@@ -117,8 +115,8 @@ I’ve been told that thou mentioned the men in thy speech
 geru -q    -kı-ne -wa -nı
 speak-INTER-PL-DRC-PST-PERF
 
-ıku-kı-qo
-man-PL-ERG
+ıku-kı-wo
+man-PL-ABS
 ```
 
 Did you hear if the men talked a lot?
@@ -131,8 +129,61 @@ speak-INTER-PL-INFER-FUT-HYP-1PL.EXCL
 
 Do you think we will talk a lot?
 
+**qouslewanı ıkukıro ȷoukıqo ȷıskutıkukıto**
+
+```
+qou      -s  -le -wa -nı
+behaviour-NEG-HRS-PST-IMPERF
+ıku-kı-ro
+man-PL-GEN
+ȷou  -kı-qo
+water-PL-ERG
+ȷısku -tıku-kı-to
+beauty-pet -PL-DAT
+```
+
+It’s said that the men weren’t giving much water to the beautiful pets.
+
+(lit: It’s said that there wasn’t a behaviour of the men for which much water was to the beautiful pets)
+
 ## Vocabulary
 
 **ıku** = superior being (homo sapiens)
 
 **geru** = to speak
+
+**qımu** = to eat
+
+**kamu** = big quadruped
+
+**tınu** = insect
+
+**drastu** = evil
+
+**kaȷu** = good
+
+**aku** = vegetation
+
+**kamqu** = instinct
+
+**ıkqu** = logic
+
+**ıkȷu** = earth
+
+**qou** = behaviour
+
+**dru** = problem
+
+**stu** = normal
+
+**ȷau** = water
+
+**tıku** = pet
+
+**kımu** = home
+
+**osu** = to see
+
+**ȷısku** = beauty
+
+**kemu** = big
